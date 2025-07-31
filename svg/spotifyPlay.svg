@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circular background with #1fdf64 -->
+  <circle cx="24" cy="24" r="24" fill="#1fdf64"/>
+
+  <!-- Solid black play icon, slightly shifted left -->
+  <path d="M18 16V32L32 24L18 16Z" fill="black"/>
+</svg>
