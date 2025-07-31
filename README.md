@@ -44,8 +44,6 @@ cd spotify-clone
 open index.html
 Make sure the songs/ folder contains .mp3 files for playback.
 
-📸 Demo
-
 
 🙌 Acknowledgements
 Inspired by the Spotify Web Player UI.
